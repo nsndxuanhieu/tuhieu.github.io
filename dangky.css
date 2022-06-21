@@ -1,0 +1,90 @@
+.c{
+    border: 1px solid black;
+    box-shadow: 5px 5px 5px #999999;
+    width: 480px;
+    padding-left: 10px;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto
+}
+input[type=text] {
+      width: 400px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border-radius: 4px;
+      border: 1px solid silver;
+      display: block;
+    margin-left: auto; 
+    margin-right: auto
+
+}
+input[type=password] {
+      width: 400px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border-radius: 4px;
+      border: 1px solid silver;
+      display: block;
+    margin-left: auto; 
+    margin-right: auto
+}
+button[type=submit] {
+      width: 400px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border-radius: 4px;
+      border: 1px solid red;
+      color: white;
+      background-color: red;
+      display: block;
+    margin-left: auto; 
+    margin-right: auto
+}
+#d{
+    width: 400px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border-radius: 4px;
+      border: 1px solid silver;
+      display: block;
+    margin-left: auto; 
+    margin-right: auto
+}
+#f{
+    color: blue;
+
+}
+
+#e{
+    color: gray;
+    text-align: center;
+
+}
+#a{
+    width: 400px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border-radius: 4px;
+      border: 1px solid red;
+      color: white;
+      background-color: red;
+}
+#b{
+    text-align: center;
+}
+
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+.logo{
+  background: #b92b05;
+  height: 40px;
+  line-height: 40px;
+  width: 100%;
+  color: #FFFFFF;
+  padding-left: 1%;
+  text-align: center;
+}
